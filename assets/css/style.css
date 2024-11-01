@@ -1,0 +1,8 @@
+.oxygen-editor-currently-editing {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  align-items: center;
+  display: flex;
+  padding: 0 10px;
+}
